@@ -19,9 +19,10 @@ Este proyecto es un simulador de gestor de procesos que implementa diferentes al
 
 ## Integrantes del equipo
 - Andrade Nieto Isaac Yireel
-- Cabrera Gabriel Cenyaze Daylaan
-- Estrada Olvera Frank
-- Huerta Hernández Dilan Dariel
+-
+-
+- García Salas Yahir Misael
+- Cruz Hernández Kevin Efrén
 
 ## Requisitos del sistema
 - Python 3.x

@@ -409,9 +409,10 @@ class GestorProcesos:
                     print("\nMuchas gracias por utilizar nuestro software de simulación de gestor de procesos")
                     print("Integrantes del equipo:")
                     print("- Andrade Nieto Isaac Yireel")
-                    print("- Cabrera Gabriel Cenyaze Daylaan")
-                    print("- Estrada Olvera Frank")
-                    print("- Huerta Hernández Dilan Dariel")
+                    print("- ")
+                    print("- ")
+                    print("- García Salas Yahir Misael")
+                    print("- Cruz Hernández Kevin Efrén")
                     opcion = input("precione ENTER para regresar al menu.")
                 else:
                     print("Opción no válida")
@@ -503,4 +504,5 @@ if __name__ == "__main__":
     gestor.crear_proceso("Servidor", 8, 0, 2048)
 
     # Iniciar interfaz
+
     gestor.menu_principal()

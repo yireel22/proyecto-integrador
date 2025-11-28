@@ -19,8 +19,8 @@ Este proyecto es un simulador de gestor de procesos que implementa diferentes al
 
 ## Integrantes del equipo
 - Andrade Nieto Isaac Yireel
--
--
+- Suarez Martinez Maciel Francisco
+- Tinajero Guzman Marco Axel
 - García Salas Yahir Misael
 - Cruz Hernández Kevin Efrén
 

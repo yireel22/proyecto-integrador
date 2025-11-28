@@ -406,11 +406,11 @@ class GestorProcesos:
                 elif opcion == "0":
                     self.running = False
                 elif opcion == "g":
-                    print("\nMuchas gracias por utilizar nuestro software de simulación de gestor de procesos")
+                    print("\nMuchas gracias por parte del equipo 6 por utilizar nuestro software de simulación de gestor de procesos")
                     print("Integrantes del equipo:")
                     print("- Andrade Nieto Isaac Yireel")
-                    print("- ")
-                    print("- ")
+                    print("- Tinajero Guzman Marco Axel")
+                    print("- Suarez Martinez Maciel Francisco")
                     print("- García Salas Yahir Misael")
                     print("- Cruz Hernández Kevin Efrén")
                     opcion = input("precione ENTER para regresar al menu.")
@@ -506,3 +506,4 @@ if __name__ == "__main__":
     # Iniciar interfaz
 
     gestor.menu_principal()
+
